@@ -25,7 +25,7 @@ SECRET_KEY = 'odqs#d9s(2io3!4*5dw56pso(k!uezizh56xy9fs#oml6=iuow'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['codedaddies-list-app.herokuapp.com']
 
 
 # Application definition
